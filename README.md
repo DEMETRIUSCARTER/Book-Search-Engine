@@ -4,7 +4,7 @@
 
  ## LINKS
 
- - [Repo](https://github.com/)
+ - [Repo](https://github.com/DEMETRIUSCARTER/Book-Search-Engine)
 
 
  ## SCREENSHOTS
@@ -13,16 +13,16 @@
 
  ## CURRENT FUNCTIONALITY
 
-This application is currently not functioning properly. When running "npm install" and "npm start" after download the starter code I receive "error: no test specified" and "missing script: start" error messages. 
 
  ## BUILT WITH
-
- - JavaScript
- - Node
- - NPM
- - HTML
- - CSS
- - IndexedDB
+ 
+ - RESTful API
+ - GraphQL API
+ - Apollo Server
+ - MongoDB
+ - Node.js
+ - Express.js
+ - React
 
  ## AUTHOR
 
