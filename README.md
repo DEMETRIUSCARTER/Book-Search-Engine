@@ -29,4 +29,4 @@
  - [DEMETRIUS CARTER](https://github.com/DEMETRIUSCARTER)
  
  ## COMPLETED WITH THE ASSISTANCE OF THESE TUTORIALS
-https://blog.logrocket.com/mern-stack-tutorial/
+
