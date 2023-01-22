@@ -34,3 +34,4 @@
  - https://www.tabnine.com/code/javascript/functions/express/Application/listen
  - https://www.apollographql.com/docs/apollo-server/v2/api/graphql-tools/
  - https://www.apollographql.com/blog/backend/using-express-with-graphql-server-node-js/
+ - https://auth0.com/blog/develop-modern-apps-with-react-graphql-apollo-and-add-authentication/#Building-CoolReads-GraphQL-API
