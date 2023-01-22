@@ -28,5 +28,7 @@
 
  - [DEMETRIUS CARTER](https://github.com/DEMETRIUSCARTER)
  
- ## COMPLETED WITH THE ASSISTANCE OF THESE TUTORIALS
+ ## COMPLETED WITH THE ASSISTANCE OF THESE TUTORIALS:
+ - https://snyk.io/advisor/npm-package/apollo-server-express/functions/apollo-server-express.ApolloServer
+ - https://www.tabnine.com/code/javascript/functions/express/Response/sendFile
 
